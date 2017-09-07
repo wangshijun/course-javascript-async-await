@@ -1,0 +1,11 @@
+{
+  "name": "201709-javascript-async-await",
+  "version": "1.0.0",
+  "description": "asynchronous javascript with async/await",
+  "main": "index.js",
+  "author": "wangshijun2010 <wangshijun2010@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.7.2"
+  }
+}
