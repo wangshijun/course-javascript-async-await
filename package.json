@@ -6,6 +6,7 @@
   "author": "wangshijun2010 <wangshijun2010@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.5.0",
     "node-fetch": "^1.7.2"
   }
 }
