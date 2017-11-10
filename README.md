@@ -62,11 +62,11 @@ node xxx.js
 上面的 xxx.js 对应每节课程的源码，列表如下：
 
 1. [编写第一个 async/await 函数](https://github.com/wangshijun/course-javascript-async-await/blob/master/01-first-async-await-function.js)
-1. [将 async 函数用在 Promise chain 中](https://github.com/wangshijun/course-javascript-async-await/blob/master/02-use-async-function-as-Promise.js)
+1. [将 async 函数用在 Promise chain 中](https://github.com/wangshijun/course-javascript-async-await/blob/master/02-use-async-function-as-promise.js)
 1. [把任意类型的函数转成 async 风格](https://github.com/wangshijun/course-javascript-async-await/blob/master/03-convert-any-function-into-async.js)
 1. [处理 async 函数中的错误](https://github.com/wangshijun/course-javascript-async-await/blob/master/04-handling-errors-for-async.js)
-1. [正确处理多个 await 操作的并行串行](https://github.com/wangshijun/course-javascript-async-await/blob/master/05-await-multiple-Promise-seq-or-concurrently.js)
-1. [使用 Promise.all() 让多个 await 操作并行](https://github.com/wangshijun/course-javascript-async-await/blob/master/06-await-multiple-Promise-with-all.js)
+1. [正确处理多个 await 操作的并行串行](https://github.com/wangshijun/course-javascript-async-await/blob/master/05-await-multiple-promise-seq-or-concurrently.js)
+1. [使用 Promise.all() 让多个 await 操作并行](https://github.com/wangshijun/course-javascript-async-await/blob/master/06-await-multiple-promise-with-all.js)
 1. [结合 await 和任意兼容 .then() 的代码](https://github.com/wangshijun/course-javascript-async-await/blob/master/07-use-await-with-any-thenable.js)
 1. [在 for 循环中正确的使用 await](https://github.com/wangshijun/course-javascript-async-await/blob/master/08-await-in-loops.js)
 
